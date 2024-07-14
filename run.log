@@ -1,0 +1,1870 @@
+nohup: ignoring input
+Files already downloaded and verified
+Files already downloaded and verified
+================= training =================
+
+[epoch 1/200] averaged training loss of batch 100/391 = 2.3947665691375732
+[epoch 1/200] averaged training loss of batch 200/391 = 2.3682098388671875
+[epoch 1/200] averaged training loss of batch 300/391 = 2.3753299713134766
+
+======== [epoch 1/200] dev data evaluation ========
+
+averaged dev_eval loss = 2.3846790552139283
+dev_eval acc =  10.160
+
+[epoch 2/200] averaged training loss of batch 100/391 = 2.1192636489868164
+[epoch 2/200] averaged training loss of batch 200/391 = 1.971734881401062
+[epoch 2/200] averaged training loss of batch 300/391 = 2.0172388553619385
+
+======== [epoch 2/200] dev data evaluation ========
+
+averaged dev_eval loss = 1.7207449078559875
+dev_eval acc =  45.780
+
+[epoch 3/200] averaged training loss of batch 100/391 = 1.9361941814422607
+[epoch 3/200] averaged training loss of batch 200/391 = 1.83732271194458
+[epoch 3/200] averaged training loss of batch 300/391 = 1.797459602355957
+
+======== [epoch 3/200] dev data evaluation ========
+
+averaged dev_eval loss = 1.620377290248871
+dev_eval acc =  50.120
+
+[epoch 4/200] averaged training loss of batch 100/391 = 1.770046353340149
+[epoch 4/200] averaged training loss of batch 200/391 = 1.7992806434631348
+[epoch 4/200] averaged training loss of batch 300/391 = 1.8339617252349854
+
+======== [epoch 4/200] dev data evaluation ========
+
+averaged dev_eval loss = 1.6263145923614502
+dev_eval acc =  49.910
+
+[epoch 5/200] averaged training loss of batch 100/391 = 1.7704648971557617
+[epoch 5/200] averaged training loss of batch 200/391 = 1.8336846828460693
+[epoch 5/200] averaged training loss of batch 300/391 = 1.7880030870437622
+
+======== [epoch 5/200] dev data evaluation ========
+
+averaged dev_eval loss = 1.5741238355636598
+dev_eval acc =  49.520
+
+[epoch 6/200] averaged training loss of batch 100/391 = 1.7448439598083496
+[epoch 6/200] averaged training loss of batch 200/391 = 1.848160982131958
+[epoch 6/200] averaged training loss of batch 300/391 = 1.9088963270187378
+
+======== [epoch 6/200] dev data evaluation ========
+
+averaged dev_eval loss = 1.5058021426200867
+dev_eval acc =  55.460
+
+[epoch 7/200] averaged training loss of batch 100/391 = 1.6829437017440796
+[epoch 7/200] averaged training loss of batch 200/391 = 1.7022343873977661
+[epoch 7/200] averaged training loss of batch 300/391 = 1.5561646223068237
+
+======== [epoch 7/200] dev data evaluation ========
+
+averaged dev_eval loss = 1.4523008584976196
+dev_eval acc =  57.480
+
+[epoch 8/200] averaged training loss of batch 100/391 = 1.6183106899261475
+[epoch 8/200] averaged training loss of batch 200/391 = 1.725563406944275
+[epoch 8/200] averaged training loss of batch 300/391 = 1.731832504272461
+
+======== [epoch 8/200] dev data evaluation ========
+
+averaged dev_eval loss = 1.3925265789031982
+dev_eval acc =  61.110
+
+[epoch 9/200] averaged training loss of batch 100/391 = 1.5389430522918701
+[epoch 9/200] averaged training loss of batch 200/391 = 1.5999407768249512
+[epoch 9/200] averaged training loss of batch 300/391 = 1.6290372610092163
+
+======== [epoch 9/200] dev data evaluation ========
+
+averaged dev_eval loss = 1.3680166244506835
+dev_eval acc =  61.330
+
+[epoch 10/200] averaged training loss of batch 100/391 = 1.6084024906158447
+[epoch 10/200] averaged training loss of batch 200/391 = 1.4788036346435547
+[epoch 10/200] averaged training loss of batch 300/391 = 1.5767135620117188
+
+======== [epoch 10/200] saving the checkpoint ========
+
+
+======== [epoch 10/200] dev data evaluation ========
+
+averaged dev_eval loss = 1.3539754033088685
+dev_eval acc =  62.450
+
+[epoch 11/200] averaged training loss of batch 100/391 = 1.5676703453063965
+[epoch 11/200] averaged training loss of batch 200/391 = 1.4170911312103271
+[epoch 11/200] averaged training loss of batch 300/391 = 1.4163670539855957
+
+======== [epoch 11/200] dev data evaluation ========
+
+averaged dev_eval loss = 1.3036280632019044
+dev_eval acc =  65.690
+
+[epoch 12/200] averaged training loss of batch 100/391 = 1.3394354581832886
+[epoch 12/200] averaged training loss of batch 200/391 = 1.4025501012802124
+[epoch 12/200] averaged training loss of batch 300/391 = 1.3680200576782227
+
+======== [epoch 12/200] dev data evaluation ========
+
+averaged dev_eval loss = 1.2754640460014344
+dev_eval acc =  66.200
+
+[epoch 13/200] averaged training loss of batch 100/391 = 1.4457942247390747
+[epoch 13/200] averaged training loss of batch 200/391 = 1.4506980180740356
+[epoch 13/200] averaged training loss of batch 300/391 = 1.3950104713439941
+
+======== [epoch 13/200] dev data evaluation ========
+
+averaged dev_eval loss = 1.2251593947410584
+dev_eval acc =  69.270
+
+[epoch 14/200] averaged training loss of batch 100/391 = 1.357183575630188
+[epoch 14/200] averaged training loss of batch 200/391 = 1.4722275733947754
+[epoch 14/200] averaged training loss of batch 300/391 = 1.3743199110031128
+
+======== [epoch 14/200] dev data evaluation ========
+
+averaged dev_eval loss = 1.2446187734603882
+dev_eval acc =  67.630
+
+[epoch 15/200] averaged training loss of batch 100/391 = 1.3003716468811035
+[epoch 15/200] averaged training loss of batch 200/391 = 1.2310266494750977
+[epoch 15/200] averaged training loss of batch 300/391 = 1.2622359991073608
+
+======== [epoch 15/200] dev data evaluation ========
+
+averaged dev_eval loss = 1.165428102016449
+dev_eval acc =  71.910
+
+[epoch 16/200] averaged training loss of batch 100/391 = 1.3439342975616455
+[epoch 16/200] averaged training loss of batch 200/391 = 1.4140806198120117
+[epoch 16/200] averaged training loss of batch 300/391 = 1.3221943378448486
+
+======== [epoch 16/200] dev data evaluation ========
+
+averaged dev_eval loss = 1.1364188075065613
+dev_eval acc =  72.740
+
+[epoch 17/200] averaged training loss of batch 100/391 = 1.2634001970291138
+[epoch 17/200] averaged training loss of batch 200/391 = 1.2136822938919067
+[epoch 17/200] averaged training loss of batch 300/391 = 1.2314679622650146
+
+======== [epoch 17/200] dev data evaluation ========
+
+averaged dev_eval loss = 1.1147932410240173
+dev_eval acc =  74.000
+
+[epoch 18/200] averaged training loss of batch 100/391 = 1.2235448360443115
+[epoch 18/200] averaged training loss of batch 200/391 = 1.3006036281585693
+[epoch 18/200] averaged training loss of batch 300/391 = 1.1916345357894897
+
+======== [epoch 18/200] dev data evaluation ========
+
+averaged dev_eval loss = 1.1185849547386169
+dev_eval acc =  73.820
+
+[epoch 19/200] averaged training loss of batch 100/391 = 1.2303608655929565
+[epoch 19/200] averaged training loss of batch 200/391 = 1.3386811017990112
+[epoch 19/200] averaged training loss of batch 300/391 = 1.266404390335083
+
+======== [epoch 19/200] dev data evaluation ========
+
+averaged dev_eval loss = 1.1086821794509887
+dev_eval acc =  74.440
+
+[epoch 20/200] averaged training loss of batch 100/391 = 1.2090327739715576
+[epoch 20/200] averaged training loss of batch 200/391 = 1.337714433670044
+[epoch 20/200] averaged training loss of batch 300/391 = 1.081721305847168
+
+======== [epoch 20/200] saving the checkpoint ========
+
+
+======== [epoch 20/200] dev data evaluation ========
+
+averaged dev_eval loss = 1.1094192266464233
+dev_eval acc =  74.350
+
+[epoch 21/200] averaged training loss of batch 100/391 = 1.1149499416351318
+[epoch 21/200] averaged training loss of batch 200/391 = 1.2862521409988403
+[epoch 21/200] averaged training loss of batch 300/391 = 1.1767340898513794
+
+======== [epoch 21/200] dev data evaluation ========
+
+averaged dev_eval loss = 1.100542712211609
+dev_eval acc =  74.950
+
+[epoch 22/200] averaged training loss of batch 100/391 = 1.1291054487228394
+[epoch 22/200] averaged training loss of batch 200/391 = 1.1714359521865845
+[epoch 22/200] averaged training loss of batch 300/391 = 1.1100434064865112
+
+======== [epoch 22/200] dev data evaluation ========
+
+averaged dev_eval loss = 1.069342565536499
+dev_eval acc =  76.090
+
+[epoch 23/200] averaged training loss of batch 100/391 = 1.2223420143127441
+[epoch 23/200] averaged training loss of batch 200/391 = 1.1536502838134766
+[epoch 23/200] averaged training loss of batch 300/391 = 1.2317122220993042
+
+======== [epoch 23/200] dev data evaluation ========
+
+averaged dev_eval loss = 1.0644970774650573
+dev_eval acc =  76.210
+
+[epoch 24/200] averaged training loss of batch 100/391 = 1.233975887298584
+[epoch 24/200] averaged training loss of batch 200/391 = 1.170316457748413
+[epoch 24/200] averaged training loss of batch 300/391 = 1.198822259902954
+
+======== [epoch 24/200] dev data evaluation ========
+
+averaged dev_eval loss = 1.042136800289154
+dev_eval acc =  77.560
+
+[epoch 25/200] averaged training loss of batch 100/391 = 1.152982473373413
+[epoch 25/200] averaged training loss of batch 200/391 = 1.1975903511047363
+[epoch 25/200] averaged training loss of batch 300/391 = 1.1868103742599487
+
+======== [epoch 25/200] dev data evaluation ========
+
+averaged dev_eval loss = 1.0432620882987975
+dev_eval acc =  77.490
+
+[epoch 26/200] averaged training loss of batch 100/391 = 1.2301620244979858
+[epoch 26/200] averaged training loss of batch 200/391 = 1.1975188255310059
+[epoch 26/200] averaged training loss of batch 300/391 = 1.1092846393585205
+
+======== [epoch 26/200] dev data evaluation ========
+
+averaged dev_eval loss = 1.0181384086608887
+dev_eval acc =  78.540
+
+[epoch 27/200] averaged training loss of batch 100/391 = 1.1679092645645142
+[epoch 27/200] averaged training loss of batch 200/391 = 1.0928020477294922
+[epoch 27/200] averaged training loss of batch 300/391 = 1.1703846454620361
+
+======== [epoch 27/200] dev data evaluation ========
+
+averaged dev_eval loss = 1.0195929408073425
+dev_eval acc =  78.150
+
+[epoch 28/200] averaged training loss of batch 100/391 = 1.2068644762039185
+[epoch 28/200] averaged training loss of batch 200/391 = 1.1079720258712769
+[epoch 28/200] averaged training loss of batch 300/391 = 1.2819572687149048
+
+======== [epoch 28/200] dev data evaluation ========
+
+averaged dev_eval loss = 1.0048614919185639
+dev_eval acc =  79.130
+
+[epoch 29/200] averaged training loss of batch 100/391 = 1.1012169122695923
+[epoch 29/200] averaged training loss of batch 200/391 = 1.0508588552474976
+[epoch 29/200] averaged training loss of batch 300/391 = 1.1615979671478271
+
+======== [epoch 29/200] dev data evaluation ========
+
+averaged dev_eval loss = 1.0164161562919616
+dev_eval acc =  78.610
+
+[epoch 30/200] averaged training loss of batch 100/391 = 1.2276263236999512
+[epoch 30/200] averaged training loss of batch 200/391 = 1.2312453985214233
+[epoch 30/200] averaged training loss of batch 300/391 = 1.071523666381836
+
+======== [epoch 30/200] saving the checkpoint ========
+
+
+======== [epoch 30/200] dev data evaluation ========
+
+averaged dev_eval loss = 1.0020316302776338
+dev_eval acc =  79.130
+
+[epoch 31/200] averaged training loss of batch 100/391 = 1.2503818273544312
+[epoch 31/200] averaged training loss of batch 200/391 = 1.0965917110443115
+[epoch 31/200] averaged training loss of batch 300/391 = 1.140388011932373
+
+======== [epoch 31/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.989662903547287
+dev_eval acc =  80.010
+
+[epoch 32/200] averaged training loss of batch 100/391 = 1.1457812786102295
+[epoch 32/200] averaged training loss of batch 200/391 = 1.0471504926681519
+[epoch 32/200] averaged training loss of batch 300/391 = 1.116529941558838
+
+======== [epoch 32/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.98880175948143
+dev_eval acc =  80.370
+
+[epoch 33/200] averaged training loss of batch 100/391 = 1.1494449377059937
+[epoch 33/200] averaged training loss of batch 200/391 = 1.0422122478485107
+[epoch 33/200] averaged training loss of batch 300/391 = 1.06813383102417
+
+======== [epoch 33/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.9737932026386261
+dev_eval acc =  80.450
+
+[epoch 34/200] averaged training loss of batch 100/391 = 1.0879149436950684
+[epoch 34/200] averaged training loss of batch 200/391 = 1.049067735671997
+[epoch 34/200] averaged training loss of batch 300/391 = 1.007190465927124
+
+======== [epoch 34/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.9782187402248382
+dev_eval acc =  80.360
+
+[epoch 35/200] averaged training loss of batch 100/391 = 1.1504416465759277
+[epoch 35/200] averaged training loss of batch 200/391 = 1.206071376800537
+[epoch 35/200] averaged training loss of batch 300/391 = 1.050959587097168
+
+======== [epoch 35/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.9626259505748749
+dev_eval acc =  80.880
+
+[epoch 36/200] averaged training loss of batch 100/391 = 1.0968157052993774
+[epoch 36/200] averaged training loss of batch 200/391 = 1.1484239101409912
+[epoch 36/200] averaged training loss of batch 300/391 = 1.0304794311523438
+
+======== [epoch 36/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.9691071331501007
+dev_eval acc =  80.830
+
+[epoch 37/200] averaged training loss of batch 100/391 = 1.122948169708252
+[epoch 37/200] averaged training loss of batch 200/391 = 1.1633855104446411
+[epoch 37/200] averaged training loss of batch 300/391 = 1.1493438482284546
+
+======== [epoch 37/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.984864741563797
+dev_eval acc =  79.880
+
+[epoch 38/200] averaged training loss of batch 100/391 = 1.113204002380371
+[epoch 38/200] averaged training loss of batch 200/391 = 1.0991058349609375
+[epoch 38/200] averaged training loss of batch 300/391 = 1.0793001651763916
+
+======== [epoch 38/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.9441394567489624
+dev_eval acc =  81.860
+
+[epoch 39/200] averaged training loss of batch 100/391 = 1.184999704360962
+[epoch 39/200] averaged training loss of batch 200/391 = 1.1540868282318115
+[epoch 39/200] averaged training loss of batch 300/391 = 0.9726577401161194
+
+======== [epoch 39/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.9479302048683167
+dev_eval acc =  81.550
+
+[epoch 40/200] averaged training loss of batch 100/391 = 1.132032871246338
+[epoch 40/200] averaged training loss of batch 200/391 = 1.043499231338501
+[epoch 40/200] averaged training loss of batch 300/391 = 1.108924150466919
+
+======== [epoch 40/200] saving the checkpoint ========
+
+
+======== [epoch 40/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.9468375027179718
+dev_eval acc =  81.850
+
+[epoch 41/200] averaged training loss of batch 100/391 = 1.045536756515503
+[epoch 41/200] averaged training loss of batch 200/391 = 1.058247447013855
+[epoch 41/200] averaged training loss of batch 300/391 = 1.0132840871810913
+
+======== [epoch 41/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.937369430065155
+dev_eval acc =  82.330
+
+[epoch 42/200] averaged training loss of batch 100/391 = 1.145704984664917
+[epoch 42/200] averaged training loss of batch 200/391 = 1.065250039100647
+[epoch 42/200] averaged training loss of batch 300/391 = 1.1048038005828857
+
+======== [epoch 42/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.9338454902172089
+dev_eval acc =  82.220
+
+[epoch 43/200] averaged training loss of batch 100/391 = 1.1229180097579956
+[epoch 43/200] averaged training loss of batch 200/391 = 1.0424234867095947
+[epoch 43/200] averaged training loss of batch 300/391 = 1.1577177047729492
+
+======== [epoch 43/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.938601952791214
+dev_eval acc =  82.170
+
+[epoch 44/200] averaged training loss of batch 100/391 = 1.1361827850341797
+[epoch 44/200] averaged training loss of batch 200/391 = 0.9434505105018616
+[epoch 44/200] averaged training loss of batch 300/391 = 1.1322659254074097
+
+======== [epoch 44/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.9385217666625977
+dev_eval acc =  82.240
+
+[epoch 45/200] averaged training loss of batch 100/391 = 1.0453171730041504
+[epoch 45/200] averaged training loss of batch 200/391 = 0.9336755275726318
+[epoch 45/200] averaged training loss of batch 300/391 = 0.9763491749763489
+
+======== [epoch 45/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.9412606954574585
+dev_eval acc =  81.810
+
+[epoch 46/200] averaged training loss of batch 100/391 = 1.1321005821228027
+[epoch 46/200] averaged training loss of batch 200/391 = 1.0370584726333618
+[epoch 46/200] averaged training loss of batch 300/391 = 1.0408008098602295
+
+======== [epoch 46/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.9435796022415162
+dev_eval acc =  81.960
+
+[epoch 47/200] averaged training loss of batch 100/391 = 0.9847208857536316
+[epoch 47/200] averaged training loss of batch 200/391 = 0.9507980346679688
+[epoch 47/200] averaged training loss of batch 300/391 = 0.9558796882629395
+
+======== [epoch 47/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.9173421144485474
+dev_eval acc =  83.160
+
+[epoch 48/200] averaged training loss of batch 100/391 = 1.011371374130249
+[epoch 48/200] averaged training loss of batch 200/391 = 1.011011004447937
+[epoch 48/200] averaged training loss of batch 300/391 = 1.0748993158340454
+
+======== [epoch 48/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.9027244746685028
+dev_eval acc =  83.900
+
+[epoch 49/200] averaged training loss of batch 100/391 = 1.0235140323638916
+[epoch 49/200] averaged training loss of batch 200/391 = 1.0346989631652832
+[epoch 49/200] averaged training loss of batch 300/391 = 1.0274810791015625
+
+======== [epoch 49/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.9039918124675751
+dev_eval acc =  83.770
+
+[epoch 50/200] averaged training loss of batch 100/391 = 1.0408092737197876
+[epoch 50/200] averaged training loss of batch 200/391 = 1.0525169372558594
+[epoch 50/200] averaged training loss of batch 300/391 = 0.9873086214065552
+
+======== [epoch 50/200] saving the checkpoint ========
+
+
+======== [epoch 50/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.9108911275863647
+dev_eval acc =  83.450
+
+[epoch 51/200] averaged training loss of batch 100/391 = 1.0182617902755737
+[epoch 51/200] averaged training loss of batch 200/391 = 1.0950927734375
+[epoch 51/200] averaged training loss of batch 300/391 = 1.1077200174331665
+
+======== [epoch 51/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.9148754775524139
+dev_eval acc =  83.380
+
+[epoch 52/200] averaged training loss of batch 100/391 = 1.0255684852600098
+[epoch 52/200] averaged training loss of batch 200/391 = 1.1163129806518555
+[epoch 52/200] averaged training loss of batch 300/391 = 1.0479762554168701
+
+======== [epoch 52/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8999671697616577
+dev_eval acc =  83.810
+
+[epoch 53/200] averaged training loss of batch 100/391 = 0.9137759208679199
+[epoch 53/200] averaged training loss of batch 200/391 = 1.1433297395706177
+[epoch 53/200] averaged training loss of batch 300/391 = 0.9438610076904297
+
+======== [epoch 53/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.9077340841293335
+dev_eval acc =  83.620
+
+[epoch 54/200] averaged training loss of batch 100/391 = 1.1549944877624512
+[epoch 54/200] averaged training loss of batch 200/391 = 1.1120861768722534
+[epoch 54/200] averaged training loss of batch 300/391 = 1.053015947341919
+
+======== [epoch 54/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.9160029828548432
+dev_eval acc =  83.180
+
+[epoch 55/200] averaged training loss of batch 100/391 = 1.0477426052093506
+[epoch 55/200] averaged training loss of batch 200/391 = 1.1242499351501465
+[epoch 55/200] averaged training loss of batch 300/391 = 1.056121587753296
+
+======== [epoch 55/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.9057155966758728
+dev_eval acc =  83.530
+
+[epoch 56/200] averaged training loss of batch 100/391 = 1.0314075946807861
+[epoch 56/200] averaged training loss of batch 200/391 = 0.942173957824707
+[epoch 56/200] averaged training loss of batch 300/391 = 0.9147511124610901
+
+======== [epoch 56/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8999466955661773
+dev_eval acc =  84.120
+
+[epoch 57/200] averaged training loss of batch 100/391 = 1.0854101181030273
+[epoch 57/200] averaged training loss of batch 200/391 = 0.9847782850265503
+[epoch 57/200] averaged training loss of batch 300/391 = 1.016158103942871
+
+======== [epoch 57/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8937268137931824
+dev_eval acc =  83.960
+
+[epoch 58/200] averaged training loss of batch 100/391 = 0.9691300392150879
+[epoch 58/200] averaged training loss of batch 200/391 = 0.9851202368736267
+[epoch 58/200] averaged training loss of batch 300/391 = 1.1989296674728394
+
+======== [epoch 58/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.891420966386795
+dev_eval acc =  84.250
+
+[epoch 59/200] averaged training loss of batch 100/391 = 0.8925632834434509
+[epoch 59/200] averaged training loss of batch 200/391 = 0.9588347673416138
+[epoch 59/200] averaged training loss of batch 300/391 = 0.9578481912612915
+
+======== [epoch 59/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8703941643238068
+dev_eval acc =  84.950
+
+[epoch 60/200] averaged training loss of batch 100/391 = 1.0371296405792236
+[epoch 60/200] averaged training loss of batch 200/391 = 0.981198251247406
+[epoch 60/200] averaged training loss of batch 300/391 = 0.897113561630249
+
+======== [epoch 60/200] saving the checkpoint ========
+
+
+======== [epoch 60/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8912004470825196
+dev_eval acc =  84.360
+
+[epoch 61/200] averaged training loss of batch 100/391 = 1.0163581371307373
+[epoch 61/200] averaged training loss of batch 200/391 = 0.9769967794418335
+[epoch 61/200] averaged training loss of batch 300/391 = 1.0076987743377686
+
+======== [epoch 61/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8829061925411225
+dev_eval acc =  84.680
+
+[epoch 62/200] averaged training loss of batch 100/391 = 0.9378228187561035
+[epoch 62/200] averaged training loss of batch 200/391 = 0.9386824369430542
+[epoch 62/200] averaged training loss of batch 300/391 = 1.0287829637527466
+
+======== [epoch 62/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8831810295581818
+dev_eval acc =  84.600
+
+[epoch 63/200] averaged training loss of batch 100/391 = 1.0218604803085327
+[epoch 63/200] averaged training loss of batch 200/391 = 0.9349841475486755
+[epoch 63/200] averaged training loss of batch 300/391 = 1.0291292667388916
+
+======== [epoch 63/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.9001671493053436
+dev_eval acc =  84.070
+
+[epoch 64/200] averaged training loss of batch 100/391 = 0.9828105568885803
+[epoch 64/200] averaged training loss of batch 200/391 = 1.031724452972412
+[epoch 64/200] averaged training loss of batch 300/391 = 1.0202863216400146
+
+======== [epoch 64/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8837222039699555
+dev_eval acc =  84.460
+
+[epoch 65/200] averaged training loss of batch 100/391 = 0.9255958795547485
+[epoch 65/200] averaged training loss of batch 200/391 = 0.9122525453567505
+[epoch 65/200] averaged training loss of batch 300/391 = 1.0039520263671875
+
+======== [epoch 65/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8850653409957886
+dev_eval acc =  84.630
+
+[epoch 66/200] averaged training loss of batch 100/391 = 1.058171033859253
+[epoch 66/200] averaged training loss of batch 200/391 = 0.9146745204925537
+[epoch 66/200] averaged training loss of batch 300/391 = 1.044119119644165
+
+======== [epoch 66/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8771946489810943
+dev_eval acc =  85.180
+
+[epoch 67/200] averaged training loss of batch 100/391 = 1.1758229732513428
+[epoch 67/200] averaged training loss of batch 200/391 = 0.9987305998802185
+[epoch 67/200] averaged training loss of batch 300/391 = 0.9021058082580566
+
+======== [epoch 67/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8687419295310974
+dev_eval acc =  85.250
+
+[epoch 68/200] averaged training loss of batch 100/391 = 0.9627108573913574
+[epoch 68/200] averaged training loss of batch 200/391 = 0.9993963241577148
+[epoch 68/200] averaged training loss of batch 300/391 = 0.9493371248245239
+
+======== [epoch 68/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8761939227581024
+dev_eval acc =  84.930
+
+[epoch 69/200] averaged training loss of batch 100/391 = 0.9794086813926697
+[epoch 69/200] averaged training loss of batch 200/391 = 1.1392323970794678
+[epoch 69/200] averaged training loss of batch 300/391 = 0.8788834810256958
+
+======== [epoch 69/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8923526883125306
+dev_eval acc =  84.340
+
+[epoch 70/200] averaged training loss of batch 100/391 = 0.9252318143844604
+[epoch 70/200] averaged training loss of batch 200/391 = 0.9107142686843872
+[epoch 70/200] averaged training loss of batch 300/391 = 0.9919885396957397
+
+======== [epoch 70/200] saving the checkpoint ========
+
+
+======== [epoch 70/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8718725502490997
+dev_eval acc =  85.000
+
+[epoch 71/200] averaged training loss of batch 100/391 = 0.9585452079772949
+[epoch 71/200] averaged training loss of batch 200/391 = 0.942784309387207
+[epoch 71/200] averaged training loss of batch 300/391 = 0.986220121383667
+
+======== [epoch 71/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8656903147697449
+dev_eval acc =  85.390
+
+[epoch 72/200] averaged training loss of batch 100/391 = 0.9842584133148193
+[epoch 72/200] averaged training loss of batch 200/391 = 1.0231025218963623
+[epoch 72/200] averaged training loss of batch 300/391 = 0.9107872247695923
+
+======== [epoch 72/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8592008829116822
+dev_eval acc =  85.450
+
+[epoch 73/200] averaged training loss of batch 100/391 = 0.9812980890274048
+[epoch 73/200] averaged training loss of batch 200/391 = 1.0821950435638428
+[epoch 73/200] averaged training loss of batch 300/391 = 0.9125104546546936
+
+======== [epoch 73/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8565346002578735
+dev_eval acc =  85.990
+
+[epoch 74/200] averaged training loss of batch 100/391 = 0.9386245012283325
+[epoch 74/200] averaged training loss of batch 200/391 = 0.8580095767974854
+[epoch 74/200] averaged training loss of batch 300/391 = 0.8693090677261353
+
+======== [epoch 74/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8635728836059571
+dev_eval acc =  85.570
+
+[epoch 75/200] averaged training loss of batch 100/391 = 1.013242244720459
+[epoch 75/200] averaged training loss of batch 200/391 = 0.9192622303962708
+[epoch 75/200] averaged training loss of batch 300/391 = 0.9654306173324585
+
+======== [epoch 75/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8794857859611511
+dev_eval acc =  84.650
+
+[epoch 76/200] averaged training loss of batch 100/391 = 0.9876521825790405
+[epoch 76/200] averaged training loss of batch 200/391 = 0.8923295736312866
+[epoch 76/200] averaged training loss of batch 300/391 = 0.88133704662323
+
+======== [epoch 76/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8626668393611908
+dev_eval acc =  85.290
+
+[epoch 77/200] averaged training loss of batch 100/391 = 0.9274013042449951
+[epoch 77/200] averaged training loss of batch 200/391 = 1.054480791091919
+[epoch 77/200] averaged training loss of batch 300/391 = 0.8455765247344971
+
+======== [epoch 77/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8528905630111694
+dev_eval acc =  85.980
+
+[epoch 78/200] averaged training loss of batch 100/391 = 0.926650881767273
+[epoch 78/200] averaged training loss of batch 200/391 = 0.8861408233642578
+[epoch 78/200] averaged training loss of batch 300/391 = 1.0523567199707031
+
+======== [epoch 78/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.858590018749237
+dev_eval acc =  85.920
+
+[epoch 79/200] averaged training loss of batch 100/391 = 0.8423988819122314
+[epoch 79/200] averaged training loss of batch 200/391 = 0.9252605438232422
+[epoch 79/200] averaged training loss of batch 300/391 = 0.8222029209136963
+
+======== [epoch 79/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8630892217159272
+dev_eval acc =  85.450
+
+[epoch 80/200] averaged training loss of batch 100/391 = 0.9278733730316162
+[epoch 80/200] averaged training loss of batch 200/391 = 0.9816660284996033
+[epoch 80/200] averaged training loss of batch 300/391 = 0.9375244379043579
+
+======== [epoch 80/200] saving the checkpoint ========
+
+
+======== [epoch 80/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8606068789958954
+dev_eval acc =  85.780
+
+[epoch 81/200] averaged training loss of batch 100/391 = 0.9087656736373901
+[epoch 81/200] averaged training loss of batch 200/391 = 0.9412395358085632
+[epoch 81/200] averaged training loss of batch 300/391 = 0.7858457565307617
+
+======== [epoch 81/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8584046840667725
+dev_eval acc =  85.740
+
+[epoch 82/200] averaged training loss of batch 100/391 = 0.8723065853118896
+[epoch 82/200] averaged training loss of batch 200/391 = 1.0312285423278809
+[epoch 82/200] averaged training loss of batch 300/391 = 0.989264190196991
+
+======== [epoch 82/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8500940918922424
+dev_eval acc =  85.930
+
+[epoch 83/200] averaged training loss of batch 100/391 = 0.8358464241027832
+[epoch 83/200] averaged training loss of batch 200/391 = 0.9801807999610901
+[epoch 83/200] averaged training loss of batch 300/391 = 0.8219729661941528
+
+======== [epoch 83/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8533109366893769
+dev_eval acc =  85.880
+
+[epoch 84/200] averaged training loss of batch 100/391 = 0.8941950798034668
+[epoch 84/200] averaged training loss of batch 200/391 = 0.9618929624557495
+[epoch 84/200] averaged training loss of batch 300/391 = 0.9634500741958618
+
+======== [epoch 84/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8482551157474518
+dev_eval acc =  85.910
+
+[epoch 85/200] averaged training loss of batch 100/391 = 1.008035659790039
+[epoch 85/200] averaged training loss of batch 200/391 = 0.8330270648002625
+[epoch 85/200] averaged training loss of batch 300/391 = 0.8582935929298401
+
+======== [epoch 85/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8493181705474854
+dev_eval acc =  86.040
+
+[epoch 86/200] averaged training loss of batch 100/391 = 0.9071553945541382
+[epoch 86/200] averaged training loss of batch 200/391 = 0.8749129772186279
+[epoch 86/200] averaged training loss of batch 300/391 = 0.9875737428665161
+
+======== [epoch 86/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8484629690647125
+dev_eval acc =  86.260
+
+[epoch 87/200] averaged training loss of batch 100/391 = 0.9231871366500854
+[epoch 87/200] averaged training loss of batch 200/391 = 0.8963412046432495
+[epoch 87/200] averaged training loss of batch 300/391 = 0.9579304456710815
+
+======== [epoch 87/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8411395132541657
+dev_eval acc =  86.200
+
+[epoch 88/200] averaged training loss of batch 100/391 = 0.8711190223693848
+[epoch 88/200] averaged training loss of batch 200/391 = 0.9102727174758911
+[epoch 88/200] averaged training loss of batch 300/391 = 0.9883115291595459
+
+======== [epoch 88/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8566631317138672
+dev_eval acc =  85.500
+
+[epoch 89/200] averaged training loss of batch 100/391 = 0.8576532602310181
+[epoch 89/200] averaged training loss of batch 200/391 = 0.8880951404571533
+[epoch 89/200] averaged training loss of batch 300/391 = 0.8947539329528809
+
+======== [epoch 89/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.841863876581192
+dev_eval acc =  86.750
+
+[epoch 90/200] averaged training loss of batch 100/391 = 0.7814599871635437
+[epoch 90/200] averaged training loss of batch 200/391 = 0.8453619480133057
+[epoch 90/200] averaged training loss of batch 300/391 = 0.991145670413971
+
+======== [epoch 90/200] saving the checkpoint ========
+
+
+======== [epoch 90/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8416608095169067
+dev_eval acc =  86.800
+
+[epoch 91/200] averaged training loss of batch 100/391 = 0.9259716272354126
+[epoch 91/200] averaged training loss of batch 200/391 = 0.9015389084815979
+[epoch 91/200] averaged training loss of batch 300/391 = 0.8094240427017212
+
+======== [epoch 91/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8521105766296386
+dev_eval acc =  85.710
+
+[epoch 92/200] averaged training loss of batch 100/391 = 0.8939732313156128
+[epoch 92/200] averaged training loss of batch 200/391 = 0.9388936758041382
+[epoch 92/200] averaged training loss of batch 300/391 = 0.9350435733795166
+
+======== [epoch 92/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8437328279018402
+dev_eval acc =  86.470
+
+[epoch 93/200] averaged training loss of batch 100/391 = 0.7639380693435669
+[epoch 93/200] averaged training loss of batch 200/391 = 1.0211526155471802
+[epoch 93/200] averaged training loss of batch 300/391 = 0.9713959097862244
+
+======== [epoch 93/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8338409662246704
+dev_eval acc =  86.850
+
+[epoch 94/200] averaged training loss of batch 100/391 = 0.8627681732177734
+[epoch 94/200] averaged training loss of batch 200/391 = 0.8079562783241272
+[epoch 94/200] averaged training loss of batch 300/391 = 0.9168444871902466
+
+======== [epoch 94/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8385239779949188
+dev_eval acc =  86.640
+
+[epoch 95/200] averaged training loss of batch 100/391 = 0.9704047441482544
+[epoch 95/200] averaged training loss of batch 200/391 = 0.8472001552581787
+[epoch 95/200] averaged training loss of batch 300/391 = 0.8273230791091919
+
+======== [epoch 95/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8438024699687958
+dev_eval acc =  86.370
+
+[epoch 96/200] averaged training loss of batch 100/391 = 0.8781289458274841
+[epoch 96/200] averaged training loss of batch 200/391 = 1.0098885297775269
+[epoch 96/200] averaged training loss of batch 300/391 = 0.9386556148529053
+
+======== [epoch 96/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8270088911056519
+dev_eval acc =  87.400
+
+[epoch 97/200] averaged training loss of batch 100/391 = 0.836259663105011
+[epoch 97/200] averaged training loss of batch 200/391 = 0.9288958311080933
+[epoch 97/200] averaged training loss of batch 300/391 = 0.8934016227722168
+
+======== [epoch 97/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8372373223304749
+dev_eval acc =  86.910
+
+[epoch 98/200] averaged training loss of batch 100/391 = 0.8215528130531311
+[epoch 98/200] averaged training loss of batch 200/391 = 0.8764424324035645
+[epoch 98/200] averaged training loss of batch 300/391 = 0.8781998753547668
+
+======== [epoch 98/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8308962821960449
+dev_eval acc =  86.790
+
+[epoch 99/200] averaged training loss of batch 100/391 = 0.8954586982727051
+[epoch 99/200] averaged training loss of batch 200/391 = 0.7328147292137146
+[epoch 99/200] averaged training loss of batch 300/391 = 1.0311558246612549
+
+======== [epoch 99/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8291866898536682
+dev_eval acc =  87.040
+
+[epoch 100/200] averaged training loss of batch 100/391 = 0.7879247665405273
+[epoch 100/200] averaged training loss of batch 200/391 = 0.880973219871521
+[epoch 100/200] averaged training loss of batch 300/391 = 0.8452704548835754
+
+======== [epoch 100/200] saving the checkpoint ========
+
+
+======== [epoch 100/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8334969758987427
+dev_eval acc =  86.930
+
+[epoch 101/200] averaged training loss of batch 100/391 = 0.8967229127883911
+[epoch 101/200] averaged training loss of batch 200/391 = 0.8589704036712646
+[epoch 101/200] averaged training loss of batch 300/391 = 0.8674107789993286
+
+======== [epoch 101/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8311184644699097
+dev_eval acc =  86.920
+
+[epoch 102/200] averaged training loss of batch 100/391 = 0.8792275190353394
+[epoch 102/200] averaged training loss of batch 200/391 = 0.8231104612350464
+[epoch 102/200] averaged training loss of batch 300/391 = 0.838701605796814
+
+======== [epoch 102/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8336576998233796
+dev_eval acc =  87.040
+
+[epoch 103/200] averaged training loss of batch 100/391 = 0.8647201657295227
+[epoch 103/200] averaged training loss of batch 200/391 = 0.9767982959747314
+[epoch 103/200] averaged training loss of batch 300/391 = 0.9000934362411499
+
+======== [epoch 103/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8438867270946503
+dev_eval acc =  86.700
+
+[epoch 104/200] averaged training loss of batch 100/391 = 0.8486595153808594
+[epoch 104/200] averaged training loss of batch 200/391 = 0.93096923828125
+[epoch 104/200] averaged training loss of batch 300/391 = 0.9294039011001587
+
+======== [epoch 104/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8193109393119812
+dev_eval acc =  87.830
+
+[epoch 105/200] averaged training loss of batch 100/391 = 0.830045223236084
+[epoch 105/200] averaged training loss of batch 200/391 = 0.9275078773498535
+[epoch 105/200] averaged training loss of batch 300/391 = 0.8046385645866394
+
+======== [epoch 105/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8274243533611297
+dev_eval acc =  87.390
+
+[epoch 106/200] averaged training loss of batch 100/391 = 0.8391542434692383
+[epoch 106/200] averaged training loss of batch 200/391 = 0.8069037795066833
+[epoch 106/200] averaged training loss of batch 300/391 = 0.9566948413848877
+
+======== [epoch 106/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8298687636852264
+dev_eval acc =  87.010
+
+[epoch 107/200] averaged training loss of batch 100/391 = 0.9133555889129639
+[epoch 107/200] averaged training loss of batch 200/391 = 0.8547828793525696
+[epoch 107/200] averaged training loss of batch 300/391 = 0.8450590372085571
+
+======== [epoch 107/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8069474935531616
+dev_eval acc =  87.840
+
+[epoch 108/200] averaged training loss of batch 100/391 = 0.8527208566665649
+[epoch 108/200] averaged training loss of batch 200/391 = 0.7743518948554993
+[epoch 108/200] averaged training loss of batch 300/391 = 0.8174400329589844
+
+======== [epoch 108/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8272761821746826
+dev_eval acc =  87.220
+
+[epoch 109/200] averaged training loss of batch 100/391 = 0.9051415920257568
+[epoch 109/200] averaged training loss of batch 200/391 = 0.8276121020317078
+[epoch 109/200] averaged training loss of batch 300/391 = 0.9945787191390991
+
+======== [epoch 109/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8335373044013977
+dev_eval acc =  87.060
+
+[epoch 110/200] averaged training loss of batch 100/391 = 0.8952654004096985
+[epoch 110/200] averaged training loss of batch 200/391 = 0.8311353921890259
+[epoch 110/200] averaged training loss of batch 300/391 = 0.824020266532898
+
+======== [epoch 110/200] saving the checkpoint ========
+
+
+======== [epoch 110/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8224652171134949
+dev_eval acc =  87.440
+
+[epoch 111/200] averaged training loss of batch 100/391 = 0.807860255241394
+[epoch 111/200] averaged training loss of batch 200/391 = 0.8809661269187927
+[epoch 111/200] averaged training loss of batch 300/391 = 0.8270922899246216
+
+======== [epoch 111/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8138733386993409
+dev_eval acc =  87.900
+
+[epoch 112/200] averaged training loss of batch 100/391 = 0.8600515723228455
+[epoch 112/200] averaged training loss of batch 200/391 = 0.8673941493034363
+[epoch 112/200] averaged training loss of batch 300/391 = 0.863390326499939
+
+======== [epoch 112/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.814450067281723
+dev_eval acc =  87.590
+
+[epoch 113/200] averaged training loss of batch 100/391 = 0.8383301496505737
+[epoch 113/200] averaged training loss of batch 200/391 = 0.7561806440353394
+[epoch 113/200] averaged training loss of batch 300/391 = 0.862656831741333
+
+======== [epoch 113/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8123064696788788
+dev_eval acc =  87.820
+
+[epoch 114/200] averaged training loss of batch 100/391 = 0.7769659757614136
+[epoch 114/200] averaged training loss of batch 200/391 = 0.9423539638519287
+[epoch 114/200] averaged training loss of batch 300/391 = 0.8352023363113403
+
+======== [epoch 114/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8150221168994903
+dev_eval acc =  88.180
+
+[epoch 115/200] averaged training loss of batch 100/391 = 0.8613110780715942
+[epoch 115/200] averaged training loss of batch 200/391 = 0.8380521535873413
+[epoch 115/200] averaged training loss of batch 300/391 = 0.8048659563064575
+
+======== [epoch 115/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8237081110477448
+dev_eval acc =  87.680
+
+[epoch 116/200] averaged training loss of batch 100/391 = 0.787650465965271
+[epoch 116/200] averaged training loss of batch 200/391 = 0.7992010116577148
+[epoch 116/200] averaged training loss of batch 300/391 = 0.8294234871864319
+
+======== [epoch 116/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8184505045413971
+dev_eval acc =  87.810
+
+[epoch 117/200] averaged training loss of batch 100/391 = 0.7810884714126587
+[epoch 117/200] averaged training loss of batch 200/391 = 0.8266875743865967
+[epoch 117/200] averaged training loss of batch 300/391 = 0.8672938346862793
+
+======== [epoch 117/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8210809350013732
+dev_eval acc =  87.500
+
+[epoch 118/200] averaged training loss of batch 100/391 = 0.880480945110321
+[epoch 118/200] averaged training loss of batch 200/391 = 0.8760257959365845
+[epoch 118/200] averaged training loss of batch 300/391 = 0.8072265386581421
+
+======== [epoch 118/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8114789247512817
+dev_eval acc =  88.130
+
+[epoch 119/200] averaged training loss of batch 100/391 = 0.758085310459137
+[epoch 119/200] averaged training loss of batch 200/391 = 0.8097392916679382
+[epoch 119/200] averaged training loss of batch 300/391 = 0.8472377061843872
+
+======== [epoch 119/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8186491131782532
+dev_eval acc =  87.970
+
+[epoch 120/200] averaged training loss of batch 100/391 = 0.7764477729797363
+[epoch 120/200] averaged training loss of batch 200/391 = 0.7919647097587585
+[epoch 120/200] averaged training loss of batch 300/391 = 0.9057402610778809
+
+======== [epoch 120/200] saving the checkpoint ========
+
+
+======== [epoch 120/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8135794579982758
+dev_eval acc =  88.010
+
+[epoch 121/200] averaged training loss of batch 100/391 = 0.7610344290733337
+[epoch 121/200] averaged training loss of batch 200/391 = 0.8975911736488342
+[epoch 121/200] averaged training loss of batch 300/391 = 0.7562938928604126
+
+======== [epoch 121/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8116129696369171
+dev_eval acc =  88.170
+
+[epoch 122/200] averaged training loss of batch 100/391 = 0.7882095575332642
+[epoch 122/200] averaged training loss of batch 200/391 = 0.7411561608314514
+[epoch 122/200] averaged training loss of batch 300/391 = 0.8388788104057312
+
+======== [epoch 122/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8132247447967529
+dev_eval acc =  88.200
+
+[epoch 123/200] averaged training loss of batch 100/391 = 0.8572567701339722
+[epoch 123/200] averaged training loss of batch 200/391 = 0.7699573636054993
+[epoch 123/200] averaged training loss of batch 300/391 = 0.8816171288490295
+
+======== [epoch 123/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8150169074535369
+dev_eval acc =  88.120
+
+[epoch 124/200] averaged training loss of batch 100/391 = 0.7706870436668396
+[epoch 124/200] averaged training loss of batch 200/391 = 0.8118466138839722
+[epoch 124/200] averaged training loss of batch 300/391 = 0.7740325331687927
+
+======== [epoch 124/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8056175589561463
+dev_eval acc =  88.380
+
+[epoch 125/200] averaged training loss of batch 100/391 = 0.7168328762054443
+[epoch 125/200] averaged training loss of batch 200/391 = 0.8421585559844971
+[epoch 125/200] averaged training loss of batch 300/391 = 0.7229706645011902
+
+======== [epoch 125/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8048632204532623
+dev_eval acc =  88.360
+
+[epoch 126/200] averaged training loss of batch 100/391 = 0.8259947896003723
+[epoch 126/200] averaged training loss of batch 200/391 = 0.8030549883842468
+[epoch 126/200] averaged training loss of batch 300/391 = 0.7769169211387634
+
+======== [epoch 126/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8141699731349945
+dev_eval acc =  87.990
+
+[epoch 127/200] averaged training loss of batch 100/391 = 0.8240153789520264
+[epoch 127/200] averaged training loss of batch 200/391 = 0.8620746731758118
+[epoch 127/200] averaged training loss of batch 300/391 = 0.8097915649414062
+
+======== [epoch 127/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8090834438800811
+dev_eval acc =  88.400
+
+[epoch 128/200] averaged training loss of batch 100/391 = 0.732473611831665
+[epoch 128/200] averaged training loss of batch 200/391 = 0.7840014696121216
+[epoch 128/200] averaged training loss of batch 300/391 = 0.8520554304122925
+
+======== [epoch 128/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.808568686246872
+dev_eval acc =  88.390
+
+[epoch 129/200] averaged training loss of batch 100/391 = 0.7775734663009644
+[epoch 129/200] averaged training loss of batch 200/391 = 0.7861038446426392
+[epoch 129/200] averaged training loss of batch 300/391 = 0.877515971660614
+
+======== [epoch 129/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8150058567523957
+dev_eval acc =  88.090
+
+[epoch 130/200] averaged training loss of batch 100/391 = 0.7660449743270874
+[epoch 130/200] averaged training loss of batch 200/391 = 0.8612557053565979
+[epoch 130/200] averaged training loss of batch 300/391 = 0.7948930263519287
+
+======== [epoch 130/200] saving the checkpoint ========
+
+
+======== [epoch 130/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8087271153926849
+dev_eval acc =  88.390
+
+[epoch 131/200] averaged training loss of batch 100/391 = 0.8820696473121643
+[epoch 131/200] averaged training loss of batch 200/391 = 0.8493314981460571
+[epoch 131/200] averaged training loss of batch 300/391 = 0.727461576461792
+
+======== [epoch 131/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8052106916904449
+dev_eval acc =  88.590
+
+[epoch 132/200] averaged training loss of batch 100/391 = 0.7402555346488953
+[epoch 132/200] averaged training loss of batch 200/391 = 0.7671182155609131
+[epoch 132/200] averaged training loss of batch 300/391 = 0.8613530993461609
+
+======== [epoch 132/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8087913632392884
+dev_eval acc =  88.480
+
+[epoch 133/200] averaged training loss of batch 100/391 = 0.7196015119552612
+[epoch 133/200] averaged training loss of batch 200/391 = 0.7513197660446167
+[epoch 133/200] averaged training loss of batch 300/391 = 0.7692112922668457
+
+======== [epoch 133/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8150215566158294
+dev_eval acc =  88.290
+
+[epoch 134/200] averaged training loss of batch 100/391 = 0.7666752338409424
+[epoch 134/200] averaged training loss of batch 200/391 = 0.7496588826179504
+[epoch 134/200] averaged training loss of batch 300/391 = 0.7714996337890625
+
+======== [epoch 134/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8084705471992493
+dev_eval acc =  88.790
+
+[epoch 135/200] averaged training loss of batch 100/391 = 0.758718729019165
+[epoch 135/200] averaged training loss of batch 200/391 = 0.7418546080589294
+[epoch 135/200] averaged training loss of batch 300/391 = 0.7349831461906433
+
+======== [epoch 135/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8064791917800903
+dev_eval acc =  88.640
+
+[epoch 136/200] averaged training loss of batch 100/391 = 0.8027098178863525
+[epoch 136/200] averaged training loss of batch 200/391 = 0.8023452758789062
+[epoch 136/200] averaged training loss of batch 300/391 = 0.8132972717285156
+
+======== [epoch 136/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8097344636917114
+dev_eval acc =  88.500
+
+[epoch 137/200] averaged training loss of batch 100/391 = 0.7911947965621948
+[epoch 137/200] averaged training loss of batch 200/391 = 0.7885077595710754
+[epoch 137/200] averaged training loss of batch 300/391 = 0.8053407669067383
+
+======== [epoch 137/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8048288345336914
+dev_eval acc =  88.560
+
+[epoch 138/200] averaged training loss of batch 100/391 = 0.858478307723999
+[epoch 138/200] averaged training loss of batch 200/391 = 0.7134013175964355
+[epoch 138/200] averaged training loss of batch 300/391 = 0.8508586883544922
+
+======== [epoch 138/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8024522066116333
+dev_eval acc =  88.740
+
+[epoch 139/200] averaged training loss of batch 100/391 = 0.8365640640258789
+[epoch 139/200] averaged training loss of batch 200/391 = 0.7724186778068542
+[epoch 139/200] averaged training loss of batch 300/391 = 0.6928116083145142
+
+======== [epoch 139/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8017362952232361
+dev_eval acc =  88.890
+
+[epoch 140/200] averaged training loss of batch 100/391 = 0.7700833082199097
+[epoch 140/200] averaged training loss of batch 200/391 = 0.7206739187240601
+[epoch 140/200] averaged training loss of batch 300/391 = 0.8673224449157715
+
+======== [epoch 140/200] saving the checkpoint ========
+
+
+======== [epoch 140/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.805235481262207
+dev_eval acc =  88.660
+
+[epoch 141/200] averaged training loss of batch 100/391 = 0.7813510894775391
+[epoch 141/200] averaged training loss of batch 200/391 = 0.6956280469894409
+[epoch 141/200] averaged training loss of batch 300/391 = 0.7058295607566833
+
+======== [epoch 141/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8131192684173584
+dev_eval acc =  88.620
+
+[epoch 142/200] averaged training loss of batch 100/391 = 0.760644793510437
+[epoch 142/200] averaged training loss of batch 200/391 = 0.7429471015930176
+[epoch 142/200] averaged training loss of batch 300/391 = 0.7132786512374878
+
+======== [epoch 142/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8092627584934234
+dev_eval acc =  88.710
+
+[epoch 143/200] averaged training loss of batch 100/391 = 0.8588424324989319
+[epoch 143/200] averaged training loss of batch 200/391 = 0.7813984155654907
+[epoch 143/200] averaged training loss of batch 300/391 = 0.7446327805519104
+
+======== [epoch 143/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8036503970623017
+dev_eval acc =  88.840
+
+[epoch 144/200] averaged training loss of batch 100/391 = 0.7208819389343262
+[epoch 144/200] averaged training loss of batch 200/391 = 0.8137887120246887
+[epoch 144/200] averaged training loss of batch 300/391 = 0.853141188621521
+
+======== [epoch 144/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7997751891613006
+dev_eval acc =  88.790
+
+[epoch 145/200] averaged training loss of batch 100/391 = 0.7561357021331787
+[epoch 145/200] averaged training loss of batch 200/391 = 0.8294754028320312
+[epoch 145/200] averaged training loss of batch 300/391 = 0.7394543290138245
+
+======== [epoch 145/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8060114324092865
+dev_eval acc =  88.580
+
+[epoch 146/200] averaged training loss of batch 100/391 = 0.74547278881073
+[epoch 146/200] averaged training loss of batch 200/391 = 0.7886505126953125
+[epoch 146/200] averaged training loss of batch 300/391 = 0.7238277196884155
+
+======== [epoch 146/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.803504341840744
+dev_eval acc =  88.930
+
+[epoch 147/200] averaged training loss of batch 100/391 = 0.7375503182411194
+[epoch 147/200] averaged training loss of batch 200/391 = 0.7246748208999634
+[epoch 147/200] averaged training loss of batch 300/391 = 0.7829561233520508
+
+======== [epoch 147/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8007481634616852
+dev_eval acc =  89.080
+
+[epoch 148/200] averaged training loss of batch 100/391 = 0.8656111359596252
+[epoch 148/200] averaged training loss of batch 200/391 = 0.729527473449707
+[epoch 148/200] averaged training loss of batch 300/391 = 0.7784335613250732
+
+======== [epoch 148/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8016656637191772
+dev_eval acc =  89.160
+
+[epoch 149/200] averaged training loss of batch 100/391 = 0.7914268970489502
+[epoch 149/200] averaged training loss of batch 200/391 = 0.6468859910964966
+[epoch 149/200] averaged training loss of batch 300/391 = 0.7084636092185974
+
+======== [epoch 149/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8032561719417572
+dev_eval acc =  89.050
+
+[epoch 150/200] averaged training loss of batch 100/391 = 0.7862116694450378
+[epoch 150/200] averaged training loss of batch 200/391 = 0.7466377019882202
+[epoch 150/200] averaged training loss of batch 300/391 = 0.8632271885871887
+
+======== [epoch 150/200] saving the checkpoint ========
+
+
+======== [epoch 150/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7995147168636322
+dev_eval acc =  89.060
+
+[epoch 151/200] averaged training loss of batch 100/391 = 0.7153785824775696
+[epoch 151/200] averaged training loss of batch 200/391 = 0.8147698640823364
+[epoch 151/200] averaged training loss of batch 300/391 = 0.7499618530273438
+
+======== [epoch 151/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8025283217430115
+dev_eval acc =  89.040
+
+[epoch 152/200] averaged training loss of batch 100/391 = 0.7319611310958862
+[epoch 152/200] averaged training loss of batch 200/391 = 0.6976155638694763
+[epoch 152/200] averaged training loss of batch 300/391 = 0.6787497997283936
+
+======== [epoch 152/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8005627930164337
+dev_eval acc =  89.150
+
+[epoch 153/200] averaged training loss of batch 100/391 = 0.7969840168952942
+[epoch 153/200] averaged training loss of batch 200/391 = 0.693253219127655
+[epoch 153/200] averaged training loss of batch 300/391 = 0.7525780200958252
+
+======== [epoch 153/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8011366605758667
+dev_eval acc =  89.060
+
+[epoch 154/200] averaged training loss of batch 100/391 = 0.7038694620132446
+[epoch 154/200] averaged training loss of batch 200/391 = 0.7066690921783447
+[epoch 154/200] averaged training loss of batch 300/391 = 0.7365238666534424
+
+======== [epoch 154/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7928767085075379
+dev_eval acc =  89.430
+
+[epoch 155/200] averaged training loss of batch 100/391 = 0.725050687789917
+[epoch 155/200] averaged training loss of batch 200/391 = 0.8133825659751892
+[epoch 155/200] averaged training loss of batch 300/391 = 0.6712049245834351
+
+======== [epoch 155/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8059525847434997
+dev_eval acc =  88.910
+
+[epoch 156/200] averaged training loss of batch 100/391 = 0.7538055777549744
+[epoch 156/200] averaged training loss of batch 200/391 = 0.733279824256897
+[epoch 156/200] averaged training loss of batch 300/391 = 0.6855722665786743
+
+======== [epoch 156/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7984702229499817
+dev_eval acc =  89.080
+
+[epoch 157/200] averaged training loss of batch 100/391 = 0.7482011318206787
+[epoch 157/200] averaged training loss of batch 200/391 = 0.6808906197547913
+[epoch 157/200] averaged training loss of batch 300/391 = 0.7054345607757568
+
+======== [epoch 157/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7981876969337464
+dev_eval acc =  89.160
+
+[epoch 158/200] averaged training loss of batch 100/391 = 0.71639084815979
+[epoch 158/200] averaged training loss of batch 200/391 = 0.6269070506095886
+[epoch 158/200] averaged training loss of batch 300/391 = 0.697944700717926
+
+======== [epoch 158/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7994502246379852
+dev_eval acc =  89.160
+
+[epoch 159/200] averaged training loss of batch 100/391 = 0.7847979068756104
+[epoch 159/200] averaged training loss of batch 200/391 = 0.662512481212616
+[epoch 159/200] averaged training loss of batch 300/391 = 0.6920911073684692
+
+======== [epoch 159/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7972758114337921
+dev_eval acc =  89.320
+
+[epoch 160/200] averaged training loss of batch 100/391 = 0.6942349672317505
+[epoch 160/200] averaged training loss of batch 200/391 = 0.7425897121429443
+[epoch 160/200] averaged training loss of batch 300/391 = 0.7203073501586914
+
+======== [epoch 160/200] saving the checkpoint ========
+
+
+======== [epoch 160/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.79891157746315
+dev_eval acc =  89.110
+
+[epoch 161/200] averaged training loss of batch 100/391 = 0.7102185487747192
+[epoch 161/200] averaged training loss of batch 200/391 = 0.6619988083839417
+[epoch 161/200] averaged training loss of batch 300/391 = 0.6975999474525452
+
+======== [epoch 161/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7954641699790954
+dev_eval acc =  89.110
+
+[epoch 162/200] averaged training loss of batch 100/391 = 0.8092386722564697
+[epoch 162/200] averaged training loss of batch 200/391 = 0.6601263880729675
+[epoch 162/200] averaged training loss of batch 300/391 = 0.764367401599884
+
+======== [epoch 162/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7982296466827392
+dev_eval acc =  89.060
+
+[epoch 163/200] averaged training loss of batch 100/391 = 0.7458807826042175
+[epoch 163/200] averaged training loss of batch 200/391 = 0.6721044182777405
+[epoch 163/200] averaged training loss of batch 300/391 = 0.7216941714286804
+
+======== [epoch 163/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8009167850017548
+dev_eval acc =  89.210
+
+[epoch 164/200] averaged training loss of batch 100/391 = 0.7002207040786743
+[epoch 164/200] averaged training loss of batch 200/391 = 0.7150518894195557
+[epoch 164/200] averaged training loss of batch 300/391 = 0.760105311870575
+
+======== [epoch 164/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8022957980632782
+dev_eval acc =  89.280
+
+[epoch 165/200] averaged training loss of batch 100/391 = 0.6416093111038208
+[epoch 165/200] averaged training loss of batch 200/391 = 0.6993201971054077
+[epoch 165/200] averaged training loss of batch 300/391 = 0.7404792308807373
+
+======== [epoch 165/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8000897645950318
+dev_eval acc =  89.110
+
+[epoch 166/200] averaged training loss of batch 100/391 = 0.6701964139938354
+[epoch 166/200] averaged training loss of batch 200/391 = 0.6558551788330078
+[epoch 166/200] averaged training loss of batch 300/391 = 0.6555273532867432
+
+======== [epoch 166/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7928700625896454
+dev_eval acc =  89.660
+
+[epoch 167/200] averaged training loss of batch 100/391 = 0.798354983329773
+[epoch 167/200] averaged training loss of batch 200/391 = 0.7019017934799194
+[epoch 167/200] averaged training loss of batch 300/391 = 0.7610253095626831
+
+======== [epoch 167/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7968045353889466
+dev_eval acc =  89.210
+
+[epoch 168/200] averaged training loss of batch 100/391 = 0.7410899996757507
+[epoch 168/200] averaged training loss of batch 200/391 = 0.721851110458374
+[epoch 168/200] averaged training loss of batch 300/391 = 0.746054470539093
+
+======== [epoch 168/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7935691058635712
+dev_eval acc =  89.420
+
+[epoch 169/200] averaged training loss of batch 100/391 = 0.7299131155014038
+[epoch 169/200] averaged training loss of batch 200/391 = 0.728270411491394
+[epoch 169/200] averaged training loss of batch 300/391 = 0.6626390218734741
+
+======== [epoch 169/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8033953011035919
+dev_eval acc =  89.390
+
+[epoch 170/200] averaged training loss of batch 100/391 = 0.6799788475036621
+[epoch 170/200] averaged training loss of batch 200/391 = 0.6226472854614258
+[epoch 170/200] averaged training loss of batch 300/391 = 0.810276210308075
+
+======== [epoch 170/200] saving the checkpoint ========
+
+
+======== [epoch 170/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8013131618499756
+dev_eval acc =  89.290
+
+[epoch 171/200] averaged training loss of batch 100/391 = 0.7000731229782104
+[epoch 171/200] averaged training loss of batch 200/391 = 0.7277714014053345
+[epoch 171/200] averaged training loss of batch 300/391 = 0.7188882231712341
+
+======== [epoch 171/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8023318290710449
+dev_eval acc =  89.170
+
+[epoch 172/200] averaged training loss of batch 100/391 = 0.640508770942688
+[epoch 172/200] averaged training loss of batch 200/391 = 0.6821221113204956
+[epoch 172/200] averaged training loss of batch 300/391 = 0.7095388770103455
+
+======== [epoch 172/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8013888418674469
+dev_eval acc =  89.360
+
+[epoch 173/200] averaged training loss of batch 100/391 = 0.7632812261581421
+[epoch 173/200] averaged training loss of batch 200/391 = 0.6792640686035156
+[epoch 173/200] averaged training loss of batch 300/391 = 0.76967453956604
+
+======== [epoch 173/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7994989812374115
+dev_eval acc =  89.450
+
+[epoch 174/200] averaged training loss of batch 100/391 = 0.7190954685211182
+[epoch 174/200] averaged training loss of batch 200/391 = 0.7744772434234619
+[epoch 174/200] averaged training loss of batch 300/391 = 0.6506857872009277
+
+======== [epoch 174/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7942430436611175
+dev_eval acc =  89.540
+
+[epoch 175/200] averaged training loss of batch 100/391 = 0.6738907098770142
+[epoch 175/200] averaged training loss of batch 200/391 = 0.6409386396408081
+[epoch 175/200] averaged training loss of batch 300/391 = 0.7281285524368286
+
+======== [epoch 175/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7968597292900086
+dev_eval acc =  89.440
+
+[epoch 176/200] averaged training loss of batch 100/391 = 0.6641237735748291
+[epoch 176/200] averaged training loss of batch 200/391 = 0.6876468658447266
+[epoch 176/200] averaged training loss of batch 300/391 = 0.7580351829528809
+
+======== [epoch 176/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7973367691040039
+dev_eval acc =  89.630
+
+[epoch 177/200] averaged training loss of batch 100/391 = 0.5882899761199951
+[epoch 177/200] averaged training loss of batch 200/391 = 0.6736626029014587
+[epoch 177/200] averaged training loss of batch 300/391 = 0.6717263460159302
+
+======== [epoch 177/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7960829555988311
+dev_eval acc =  89.410
+
+[epoch 178/200] averaged training loss of batch 100/391 = 0.7461093068122864
+[epoch 178/200] averaged training loss of batch 200/391 = 0.6457390785217285
+[epoch 178/200] averaged training loss of batch 300/391 = 0.6800501346588135
+
+======== [epoch 178/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.8000769138336181
+dev_eval acc =  89.450
+
+[epoch 179/200] averaged training loss of batch 100/391 = 0.7065852880477905
+[epoch 179/200] averaged training loss of batch 200/391 = 0.709264874458313
+[epoch 179/200] averaged training loss of batch 300/391 = 0.6939572095870972
+
+======== [epoch 179/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7942724704742432
+dev_eval acc =  89.720
+
+[epoch 180/200] averaged training loss of batch 100/391 = 0.7018652558326721
+[epoch 180/200] averaged training loss of batch 200/391 = 0.6753724813461304
+[epoch 180/200] averaged training loss of batch 300/391 = 0.7197995781898499
+
+======== [epoch 180/200] saving the checkpoint ========
+
+
+======== [epoch 180/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7942999958992004
+dev_eval acc =  89.790
+
+[epoch 181/200] averaged training loss of batch 100/391 = 0.7966416478157043
+[epoch 181/200] averaged training loss of batch 200/391 = 0.7145662307739258
+[epoch 181/200] averaged training loss of batch 300/391 = 0.6843875646591187
+
+======== [epoch 181/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7917610824108123
+dev_eval acc =  89.630
+
+[epoch 182/200] averaged training loss of batch 100/391 = 0.6879420280456543
+[epoch 182/200] averaged training loss of batch 200/391 = 0.6547238826751709
+[epoch 182/200] averaged training loss of batch 300/391 = 0.6188043355941772
+
+======== [epoch 182/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7985819995403289
+dev_eval acc =  89.410
+
+[epoch 183/200] averaged training loss of batch 100/391 = 0.7461898326873779
+[epoch 183/200] averaged training loss of batch 200/391 = 0.6760179996490479
+[epoch 183/200] averaged training loss of batch 300/391 = 0.7029948234558105
+
+======== [epoch 183/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7944523632526398
+dev_eval acc =  89.570
+
+[epoch 184/200] averaged training loss of batch 100/391 = 0.7105906009674072
+[epoch 184/200] averaged training loss of batch 200/391 = 0.7265353798866272
+[epoch 184/200] averaged training loss of batch 300/391 = 0.6508020162582397
+
+======== [epoch 184/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7933641016483307
+dev_eval acc =  89.650
+
+[epoch 185/200] averaged training loss of batch 100/391 = 0.6959410905838013
+[epoch 185/200] averaged training loss of batch 200/391 = 0.7345662117004395
+[epoch 185/200] averaged training loss of batch 300/391 = 0.665114164352417
+
+======== [epoch 185/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7926731526851654
+dev_eval acc =  89.580
+
+[epoch 186/200] averaged training loss of batch 100/391 = 0.7356979250907898
+[epoch 186/200] averaged training loss of batch 200/391 = 0.6805323362350464
+[epoch 186/200] averaged training loss of batch 300/391 = 0.7476666569709778
+
+======== [epoch 186/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7943975150585174
+dev_eval acc =  89.630
+
+[epoch 187/200] averaged training loss of batch 100/391 = 0.6347216367721558
+[epoch 187/200] averaged training loss of batch 200/391 = 0.6727325916290283
+[epoch 187/200] averaged training loss of batch 300/391 = 0.7173906564712524
+
+======== [epoch 187/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7939917147159576
+dev_eval acc =  89.490
+
+[epoch 188/200] averaged training loss of batch 100/391 = 0.6743069887161255
+[epoch 188/200] averaged training loss of batch 200/391 = 0.6851174235343933
+[epoch 188/200] averaged training loss of batch 300/391 = 0.6903417706489563
+
+======== [epoch 188/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7921526491641998
+dev_eval acc =  89.680
+
+[epoch 189/200] averaged training loss of batch 100/391 = 0.7280938625335693
+[epoch 189/200] averaged training loss of batch 200/391 = 0.6261851787567139
+[epoch 189/200] averaged training loss of batch 300/391 = 0.685565710067749
+
+======== [epoch 189/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7930726766586303
+dev_eval acc =  89.570
+
+[epoch 190/200] averaged training loss of batch 100/391 = 0.667736291885376
+[epoch 190/200] averaged training loss of batch 200/391 = 0.7130221724510193
+[epoch 190/200] averaged training loss of batch 300/391 = 0.6932942867279053
+
+======== [epoch 190/200] saving the checkpoint ========
+
+
+======== [epoch 190/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7914836287498475
+dev_eval acc =  89.710
+
+[epoch 191/200] averaged training loss of batch 100/391 = 0.689266562461853
+[epoch 191/200] averaged training loss of batch 200/391 = 0.6445980668067932
+[epoch 191/200] averaged training loss of batch 300/391 = 0.728948712348938
+
+======== [epoch 191/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7925082385540009
+dev_eval acc =  89.670
+
+[epoch 192/200] averaged training loss of batch 100/391 = 0.6121581792831421
+[epoch 192/200] averaged training loss of batch 200/391 = 0.7270588278770447
+[epoch 192/200] averaged training loss of batch 300/391 = 0.7264137268066406
+
+======== [epoch 192/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7921431303024292
+dev_eval acc =  89.670
+
+[epoch 193/200] averaged training loss of batch 100/391 = 0.6786645650863647
+[epoch 193/200] averaged training loss of batch 200/391 = 0.6195237636566162
+[epoch 193/200] averaged training loss of batch 300/391 = 0.7073169946670532
+
+======== [epoch 193/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7922807037830353
+dev_eval acc =  89.650
+
+[epoch 194/200] averaged training loss of batch 100/391 = 0.6989398002624512
+[epoch 194/200] averaged training loss of batch 200/391 = 0.6700425744056702
+[epoch 194/200] averaged training loss of batch 300/391 = 0.7027311325073242
+
+======== [epoch 194/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7923087656497956
+dev_eval acc =  89.370
+
+[epoch 195/200] averaged training loss of batch 100/391 = 0.7179783582687378
+[epoch 195/200] averaged training loss of batch 200/391 = 0.7199352383613586
+[epoch 195/200] averaged training loss of batch 300/391 = 0.6232070326805115
+
+======== [epoch 195/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.791989666223526
+dev_eval acc =  89.600
+
+[epoch 196/200] averaged training loss of batch 100/391 = 0.772693395614624
+[epoch 196/200] averaged training loss of batch 200/391 = 0.7132307291030884
+[epoch 196/200] averaged training loss of batch 300/391 = 0.7627302408218384
+
+======== [epoch 196/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7913108170032501
+dev_eval acc =  89.620
+
+[epoch 197/200] averaged training loss of batch 100/391 = 0.6773816347122192
+[epoch 197/200] averaged training loss of batch 200/391 = 0.6883814334869385
+[epoch 197/200] averaged training loss of batch 300/391 = 0.6851674914360046
+
+======== [epoch 197/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7919929265975952
+dev_eval acc =  89.690
+
+[epoch 198/200] averaged training loss of batch 100/391 = 0.7132859826087952
+[epoch 198/200] averaged training loss of batch 200/391 = 0.7557725310325623
+[epoch 198/200] averaged training loss of batch 300/391 = 0.7035259008407593
+
+======== [epoch 198/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7917100131511688
+dev_eval acc =  89.780
+
+[epoch 199/200] averaged training loss of batch 100/391 = 0.6461691856384277
+[epoch 199/200] averaged training loss of batch 200/391 = 0.6732221841812134
+[epoch 199/200] averaged training loss of batch 300/391 = 0.6664060354232788
+
+======== [epoch 199/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.7917460680007935
+dev_eval acc =  89.770
+
+[epoch 200/200] averaged training loss of batch 100/391 = 0.681232213973999
+[epoch 200/200] averaged training loss of batch 200/391 = 0.6681117415428162
+[epoch 200/200] averaged training loss of batch 300/391 = 0.6547610759735107
+
+======== [epoch 200/200] saving the checkpoint ========
+
+
+======== [epoch 200/200] dev data evaluation ========
+
+averaged dev_eval loss = 0.790764582157135
+dev_eval acc =  89.870
+
+
+#Params:  6268810
+
+Best epoch = 200 with dev_eval acc = 89.87000274658203
+
