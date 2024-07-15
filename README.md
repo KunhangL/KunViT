@@ -11,7 +11,7 @@ Although Transformers lack some of the inductive biases inherent to CNNs, such a
 ## Summary of the Self-implemented Codes
 - [ViT Model Implementation](models.py): I implemented the Vision Transformer model architecture from scratch (self-attention, multihead self-attention, transformer layer, and vision transformer block).
 - [Trainer Implementation](trainer.py): I implemented the training and testing codes including the plotter.
-- During the implementation, I was inspired by https://github.com/omihub777/ViT-CIFAR. I followed their codes to preprocess the CIFAR-10 dataset.
+- During the implementation, I was inspired by https://github.com/omihub777/ViT-CIFAR. I followed their codes to [preprocess](dataloader.py) the CIFAR-10 dataset.
 
 ## Experiments
 - [LOG](run.log)
@@ -43,6 +43,11 @@ Although Transformers lack some of the inductive biases inherent to CNNs, such a
 - Best epoch = 200 with dev_eval acc = 89.87%
 - Here is the plot showing the loss curve on the training dataset, and the accuracy curve on the development dataset.
 <div style="text-align:center"><img src="results.png" /></div>
+
+### Analysis
+- The original ViT paper pretrained the model on a very large dataset, and then fine-tuned on CIFAR-10, resulting in a very high accuracy (99.5%). Due to the limit of resources, I trained and tested the model only on CIFAR-10.
+- Due to limited time, I trained for 200 epochs and got the best result after the 200th epoch. The model's performance may still increase a little bit if training further.
+- Dropout didn't work well, so I set it to 0. The regularization tricks (label smoothing, auto augmentation of the data, weight decay and warm up) are very important to the small-scale training. Tuning the hyperparameters may further improve the performance.
 
 ## Usage
 ```
